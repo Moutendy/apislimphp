@@ -1,0 +1,15 @@
+{
+    "name": "grafikcart/api",
+    "description": "no",
+    "type": "no",
+    "license": "no",
+    "autoload": {
+        "psr-4": {
+            "Grafikcart\\Api\\": "src/"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {
+        "slim/slim": "^4.9"
+    }
+}
